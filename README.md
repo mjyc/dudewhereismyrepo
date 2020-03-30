@@ -19,7 +19,7 @@ cause I can't find my repo I'm looking for
 - [head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
 
-#### Research tools I built
+#### Research tools
 
 - [markademic](https://github.com/mjyc/markademic)
 - [runworkers](https://github.com/mjyc/runworkers)
