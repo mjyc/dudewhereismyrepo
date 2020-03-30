@@ -8,6 +8,7 @@ cause I can't find my repo I'm looking for
 - [marbled-paper](https://github.com/mjyc/marbled-paper)
 - [magic-wandaphone](https://github.com/mjyc/magic-wandaphone)
 - [jammerjs](https://github.com/mjyc/jammerjs)
+- [react-hooks-interactive-apps](https://github.com/mjyc/react-hooks-interactive-apps)
 - [blurbboard-generator](https://github.com/mjyc/blurbboard-generator)
 
 #### Cause I love robots
