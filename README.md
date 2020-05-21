@@ -13,22 +13,25 @@ cause I can't find my repo I'm looking for
 
 #### Cause I love robots
 
-- [cycle-robot-drivers](https://github.com/mjyc/cycle-robot-drivers)
 - [concodeit](https://github.com/mjyc/concodeit)
+- [cycle-robot-drivers](https://github.com/mjyc/cycle-robot-drivers)
+- [head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo)
 - [interactive-program-repair](https://github.com/mjyc/interactive-program-repair)
 - [robosysdev-notes](https://github.com/mjyc/robosysdev-notes)
-- [head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo)
+- [rxpy-cozmo](https://github.com/mjyc/rxpy-cozmo)
+- [soboro](https://github.com/mjyc/soboro)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
 
 #### Research tools
 
-- [markademic](https://github.com/mjyc/markademic)
-- [runworkers](https://github.com/mjyc/runworkers)
-- [ltlts](https://github.com/mjyc/ltlts)
+- [frpsynth](https://github.com/mjyc/frpsynth)
+- [fsmsynth](https://github.com/mjyc/fsmsynth)
 - [ltl.rkt](https://github.com/mjyc/ltl.rkt)
 - [ltljs](https://github.com/mjyc/ltljs)
-- [fsmsynth](https://github.com/mjyc/fsmsynth)
-- [frpsynth](https://github.com/mjyc/frpsynth)
+- [ltlts](https://github.com/mjyc/ltlts)
+- [markademic](https://github.com/mjyc/markademic)
+- [pstreamjs](https://github.com/mjyc/pstreamjs)
+- [runworkers](https://github.com/mjyc/runworkers)
 - [z3js](https://github.com/mjyc/z3js)
 
 #### Curated lists
