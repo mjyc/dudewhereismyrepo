@@ -18,6 +18,7 @@ cause I can't find my repo I'm looking for
 - [head-pose-estimation-demo](https://github.com/mjyc/head-pose-estimation-demo)
 - [interactive-program-repair](https://github.com/mjyc/interactive-program-repair)
 - [robosysdev-notes](https://github.com/mjyc/robosysdev-notes)
+- [ros_cozmo](https://github.com/mjyc/ros_cozmo)
 - [rxpy-cozmo](https://github.com/mjyc/rxpy-cozmo)
 - [soboro](https://github.com/mjyc/soboro)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
