@@ -25,6 +25,7 @@ cause I can't find my repo I'm looking for
 
 #### Research tools
 
+- [callbag-fsm](https://github.com/mjyc/callbag-fsm)
 - [frpsynth](https://github.com/mjyc/frpsynth)
 - [fsmsynth](https://github.com/mjyc/fsmsynth)
 - [listrp](https://github.com/mjyc/listrp)
