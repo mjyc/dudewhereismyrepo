@@ -32,6 +32,7 @@ cause I can't find my repo I'm looking for
 - [markademic](https://github.com/mjyc/markademic)
 - [pstreamjs](https://github.com/mjyc/pstreamjs)
 - [runworkers](https://github.com/mjyc/runworkers)
+- [srtr](https://github.com/mjyc/srtr)
 - [z3js](https://github.com/mjyc/z3js)
 
 #### Curated lists
