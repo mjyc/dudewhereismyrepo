@@ -27,6 +27,7 @@ cause I can't find my repo I'm looking for
 
 - [frpsynth](https://github.com/mjyc/frpsynth)
 - [fsmsynth](https://github.com/mjyc/fsmsynth)
+- [listrp](https://github.com/mjyc/listrp)
 - [ltl.rkt](https://github.com/mjyc/ltl.rkt)
 - [ltljs](https://github.com/mjyc/ltljs)
 - [ltlts](https://github.com/mjyc/ltlts)
