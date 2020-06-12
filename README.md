@@ -5,7 +5,6 @@ cause I can't find my repo I'm looking for
 #### Just for fun
 
 - [emojier](https://github.com/mjyc/emojier)
-- [marbled-paper](https://github.com/mjyc/marbled-paper)
 - [magic-wandaphone](https://github.com/mjyc/magic-wandaphone)
 - [jammerjs](https://github.com/mjyc/jammerjs)
 - [react-hooks-interactive-apps](https://github.com/mjyc/react-hooks-interactive-apps)
@@ -35,6 +34,7 @@ cause I can't find my repo I'm looking for
 - [pstreamjs](https://github.com/mjyc/pstreamjs)
 - [runworkers](https://github.com/mjyc/runworkers)
 - [srtr](https://github.com/mjyc/srtr)
+- [xssynth](https://github.com/mjyc/xssynth)
 - [z3js](https://github.com/mjyc/z3js)
 
 #### Curated lists
