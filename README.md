@@ -21,6 +21,7 @@ cause I can't find my repo I'm looking for
 - [ros_cozmo](https://github.com/mjyc/ros_cozmo)
 - [rxpy-cozmo](https://github.com/mjyc/rxpy-cozmo)
 - [soboro](https://github.com/mjyc/soboro)
+- [tablet-robot-face](https://github.com/mjyc/tablet-robot-face)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
 
 #### Research tools
