@@ -41,6 +41,6 @@ cause I can't find my repo I'm looking for
 
 #### Curated lists
 
-- [literature-review-sources](https://github.com/mjyc/literature-review-sources)
+- [hri-literature-spreadsheets](https://github.com/mjyc/hri-literature-spreadsheets)
 - [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)
 - [awesome-hri-datasets](https://github.com/mjyc/awesome-hri-datasets)
