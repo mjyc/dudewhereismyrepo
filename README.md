@@ -48,3 +48,6 @@ cause I can't find my repo I'm looking for
 - [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects)
 - [hri-literature-spreadsheets](https://github.com/mjyc/hri-literature-spreadsheets)
 - [hri-papers-for-industry](https://github.com/mjyc/hri-papers-for-industry)
+- [robotics-algorithm-repos](https://github.com/mjyc/robotics-algorithm-repos)
+- [robotics-system-design-page](https://github.com/mjyc/robotics-system-design-page)
+- [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming)
