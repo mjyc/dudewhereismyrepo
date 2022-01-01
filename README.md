@@ -52,3 +52,4 @@ cause I can't find my repo I'm looking for
 - [robotics-system-design-page](https://github.com/mjyc/robotics-system-design-page)
 - [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming)
 - [awesome-behavioral-change](https://github.com/mjyc/awesome-behavioral-change)
+- [awesome-tech-education](https://github.com/mjyc/awesome-tech-education)
