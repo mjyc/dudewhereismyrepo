@@ -38,6 +38,7 @@ cause I can't find my repo I'm looking for
 - [pstreamjs](https://github.com/mjyc/pstreamjs)
 - [runworkers](https://github.com/mjyc/runworkers)
 - [srtr](https://github.com/mjyc/srtr)
+- [webppl-linesim](https://github.com/mjyc/webppl-linesim)
 - [xssynth](https://github.com/mjyc/xssynth)
 - [z3js](https://github.com/mjyc/z3js)
 
