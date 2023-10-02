@@ -23,6 +23,7 @@ cause I can't find my repo I'm looking for
 - [soboro](https://github.com/mjyc/soboro)
 - [tablet-robot-face](https://github.com/mjyc/tablet-robot-face)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
+- [ros-sandbox](https://github.com/mjyc/ros-sandbox)
 
 #### Research tools
 
@@ -54,3 +55,4 @@ cause I can't find my repo I'm looking for
 - [awesome-end-user-programming](https://github.com/mjyc/awesome-end-user-programming)
 - [awesome-behavioral-change](https://github.com/mjyc/awesome-behavioral-change)
 - [awesome-tech-education](https://github.com/mjyc/awesome-tech-education)
+- [awesome-robot-devenvs](https://github.com/mjyc/awesome-robot-devenvs)
