@@ -24,6 +24,7 @@ cause I can't find my repo I'm looking for
 - [tablet-robot-face](https://github.com/mjyc/tablet-robot-face)
 - [voice-activity-detection](https://github.com/mjyc/voice-activity-detection)
 - [ros-sandbox](https://github.com/mjyc/ros-sandbox)
+- [CppRoboticsBenchmark](https://github.com/mjyc/CppRoboticsBenchmark)
 
 #### Research tools
 
