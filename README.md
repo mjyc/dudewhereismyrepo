@@ -57,3 +57,4 @@ cause I can't find my repo I'm looking for
 - [awesome-behavioral-change](https://github.com/mjyc/awesome-behavioral-change)
 - [awesome-tech-education](https://github.com/mjyc/awesome-tech-education)
 - [awesome-robot-devenvs](https://github.com/mjyc/awesome-robot-devenvs)
+- [awesome-modular-hardware](https://github.com/mjyc/awesome-modular-hardware)
